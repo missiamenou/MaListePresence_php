@@ -1,0 +1,557 @@
+[07-Aug-2024 10:26:41 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't create table `spcom1_komibd`.`participants` (errno: 150 "Foreign key constraint is incorrectly formed") in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php:17
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php(17): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php on line 17
+[07-Aug-2024 10:27:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't create table `spcom1_komibd`.`participants` (errno: 150 "Foreign key constraint is incorrectly formed") in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php:17
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php(17): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php on line 17
+[07-Aug-2024 10:29:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't create table `spcom1_komibd`.`participants` (errno: 150 "Foreign key constraint is incorrectly formed") in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php:17
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php(17): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php on line 17
+[07-Aug-2024 10:34:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't create table `spcom1_komibd`.`participants` (errno: 150 "Foreign key constraint is incorrectly formed") in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php:17
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php(17): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php on line 17
+[07-Aug-2024 10:34:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't create table `spcom1_komibd`.`participants` (errno: 150 "Foreign key constraint is incorrectly formed") in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php:17
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php(17): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php on line 17
+[07-Aug-2024 10:34:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't create table `spcom1_komibd`.`participants` (errno: 150 "Foreign key constraint is incorrectly formed") in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php:17
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php(17): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php on line 17
+[07-Aug-2024 10:37:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't create table `spcom1_komibd`.`participants` (errno: 150 "Foreign key constraint is incorrectly formed") in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php:17
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php(17): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php on line 17
+[07-Aug-2024 10:42:00 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't create table `spcom1_komibd`.`participants` (errno: 150 "Foreign key constraint is incorrectly formed") in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php:16
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php(16): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php on line 16
+[07-Aug-2024 10:43:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't create table `spcom1_komibd`.`participants` (errno: 150 "Foreign key constraint is incorrectly formed") in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php:16
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php(16): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php on line 16
+[07-Aug-2024 10:43:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't create table `spcom1_komibd`.`participants` (errno: 150 "Foreign key constraint is incorrectly formed") in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php:16
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php(16): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php on line 16
+[07-Aug-2024 12:09:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't create table `spcom1_komibd`.`participants` (errno: 150 "Foreign key constraint is incorrectly formed") in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php:16
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php(16): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php on line 16
+[07-Aug-2024 16:19:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't create table `spcom1_komibd`.`participants` (errno: 150 "Foreign key constraint is incorrectly formed") in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php:16
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php(16): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php on line 16
+[07-Aug-2024 16:40:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Key column 'id_members' doesn't exist in table in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php on line 13
+[07-Aug-2024 16:42:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Key column 'id_members' doesn't exist in table in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php on line 13
+[07-Aug-2024 17:02:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.participants' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:02:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.participants' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:12:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:12:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:13:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:13:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:13:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:13:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:13:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id_members' in 'field list' in /home/spcom1/public_html/komi/mon_projet_api/add_participant.php:17
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/add_participant.php(17): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/add_participant.php on line 17
+[07-Aug-2024 17:13:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id_members' in 'field list' in /home/spcom1/public_html/komi/mon_projet_api/add_participant.php:17
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/add_participant.php(17): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/add_participant.php on line 17
+[07-Aug-2024 17:13:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id_members' in 'field list' in /home/spcom1/public_html/komi/mon_projet_api/add_participant.php:17
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/add_participant.php(17): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/add_participant.php on line 17
+[07-Aug-2024 17:13:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:13:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:14:32 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:14:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id_members' in 'field list' in /home/spcom1/public_html/komi/mon_projet_api/add_participant.php:17
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/add_participant.php(17): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/add_participant.php on line 17
+[07-Aug-2024 17:14:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id_members' in 'field list' in /home/spcom1/public_html/komi/mon_projet_api/add_participant.php:17
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/add_participant.php(17): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/add_participant.php on line 17
+[07-Aug-2024 17:14:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id_members' in 'field list' in /home/spcom1/public_html/komi/mon_projet_api/add_participant.php:17
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/add_participant.php(17): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/add_participant.php on line 17
+[07-Aug-2024 17:16:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:16:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:17:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:17:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:19:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:19:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:22:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:22:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:30:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't create table `spcom1_komibd`.`participants` (errno: 150 "Foreign key constraint is incorrectly formed") in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php:23
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php(23): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php on line 23
+[07-Aug-2024 17:43:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:43:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:43:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:43:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:43:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:43:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:44:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:44:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:44:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:44:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:46:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:46:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:46:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:46:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:46:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id_members' in 'field list' in /home/spcom1/public_html/komi/mon_projet_api/add_participant.php:17
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/add_participant.php(17): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/add_participant.php on line 17
+[07-Aug-2024 17:46:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id_members' in 'field list' in /home/spcom1/public_html/komi/mon_projet_api/add_participant.php:17
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/add_participant.php(17): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/add_participant.php on line 17
+[07-Aug-2024 17:47:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id_members' in 'field list' in /home/spcom1/public_html/komi/mon_projet_api/add_participant.php:17
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/add_participant.php(17): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/add_participant.php on line 17
+[07-Aug-2024 17:47:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:47:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 17:47:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't create table `spcom1_komibd`.`participants` (errno: 150 "Foreign key constraint is incorrectly formed") in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php:23
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php(23): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php on line 23
+[07-Aug-2024 17:47:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't create table `spcom1_komibd`.`participants` (errno: 150 "Foreign key constraint is incorrectly formed") in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php:23
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php(23): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php on line 23
+[07-Aug-2024 17:47:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't create table `spcom1_komibd`.`participants` (errno: 150 "Foreign key constraint is incorrectly formed") in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php:23
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php(23): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php on line 23
+[07-Aug-2024 17:47:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't create table `spcom1_komibd`.`participants` (errno: 150 "Foreign key constraint is incorrectly formed") in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php:23
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php(23): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php on line 23
+[07-Aug-2024 17:47:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Can't create table `spcom1_komibd`.`participants` (errno: 150 "Foreign key constraint is incorrectly formed") in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php:23
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php(23): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php on line 23
+[07-Aug-2024 18:11:40 UTC] PHP Parse error:  Unmatched '}' in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php on line 32
+[07-Aug-2024 18:18:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'event_name' in 'field list' in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php:29
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php(29): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php on line 29
+[07-Aug-2024 18:18:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'event_name' in 'field list' in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php:29
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php(29): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php on line 29
+[07-Aug-2024 18:19:31 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'event_name' in 'field list' in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php:16
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php(16): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/createParticipantTable.php on line 16
+[07-Aug-2024 20:13:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[07-Aug-2024 20:13:28 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'p.id_members' in 'on clause' in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php:13
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php(13): mysqli->query()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/get_event_participant.php on line 13
+[09-Aug-2024 17:46:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.membres' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/update_member.php:24
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/update_member.php(24): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/update_member.php on line 24
+[09-Aug-2024 17:47:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.membres' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/update_member.php:24
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/update_member.php(24): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/update_member.php on line 24
+[09-Aug-2024 17:47:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.membres' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/update_member.php:24
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/update_member.php(24): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/update_member.php on line 24
+[09-Aug-2024 17:48:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.membres' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/update_member.php:24
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/update_member.php(24): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/update_member.php on line 24
+[09-Aug-2024 17:53:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.membres' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/update_member.php:25
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/update_member.php(25): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/update_member.php on line 25
+[09-Aug-2024 17:55:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.membres' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/update_member.php:25
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/update_member.php(25): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/update_member.php on line 25
+[09-Aug-2024 17:56:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.membres' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/update_member.php:25
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/update_member.php(25): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/update_member.php on line 25
+[09-Aug-2024 17:56:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.membres' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/update_member.php:25
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/update_member.php(25): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/update_member.php on line 25
+[09-Aug-2024 18:00:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.membres' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/update_member.php:24
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/update_member.php(24): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/update_member.php on line 24
+[09-Aug-2024 18:00:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.membres' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/update_member.php:24
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/update_member.php(24): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/update_member.php on line 24
+[09-Aug-2024 18:03:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.membres' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/update_member.php:24
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/update_member.php(24): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/update_member.php on line 24
+[09-Aug-2024 18:04:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.membres' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/update_member.php:24
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/update_member.php(24): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/update_member.php on line 24
+[09-Aug-2024 18:09:24 UTC] Array
+(
+    [id] => 1
+    [nom] => Doe
+    [prenom] => John
+    [dateDeNaissance] => 1990-01-01
+    [sexe] => M
+)
+
+[09-Aug-2024 18:09:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.membres' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/update_member.php:22
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/update_member.php(22): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/update_member.php on line 22
+[09-Aug-2024 18:10:05 UTC] 
+[09-Aug-2024 18:11:16 UTC] Array
+(
+    [id] => 1
+    [nom] => Doe
+    [prenom] => John
+    [dateDeNaissance] => 1990-01-01
+    [sexe] => M
+)
+
+[09-Aug-2024 18:11:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.membres' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/update_member.php:22
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/update_member.php(22): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/update_member.php on line 22
+[09-Aug-2024 18:11:36 UTC] Array
+(
+    [id] => 1
+    [nom] => Doe
+    [prenom] => John
+    [dateDeNaissance] => 1990-01-01
+    [sexe] => M
+)
+
+[09-Aug-2024 18:11:36 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.membres' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/update_member.php:22
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/update_member.php(22): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/update_member.php on line 22
+[09-Aug-2024 18:11:45 UTC] Array
+(
+    [id] => 1
+    [nom] => Doe
+    [prenom] => John
+    [dateDeNaissance] => 1990-01-01
+    [sexe] => M
+)
+
+[09-Aug-2024 18:11:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.membres' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/update_member.php:22
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/update_member.php(22): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/update_member.php on line 22
+[09-Aug-2024 18:15:30 UTC] Array
+(
+    [id] => 1
+    [nom] => Doe
+    [prenom] => John
+    [dateDeNaissance] => 1990-01-01
+    [sexe] => M
+)
+
+[09-Aug-2024 18:15:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.membres' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/update_member.php:22
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/update_member.php(22): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/update_member.php on line 22
+[09-Aug-2024 18:19:27 UTC] Array
+(
+    [id] => 1
+    [nom] => Doe
+    [prenom] => John
+    [dateDeNaissance] => 1990-01-01
+    [sexe] => M
+)
+
+[09-Aug-2024 18:19:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.membres' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/update_member.php:22
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/update_member.php(22): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/update_member.php on line 22
+[09-Aug-2024 18:22:22 UTC] PHP Parse error:  Unmatched '}' in /home/spcom1/public_html/komi/mon_projet_api/update_member.php on line 45
+[09-Aug-2024 18:22:24 UTC] PHP Parse error:  Unmatched '}' in /home/spcom1/public_html/komi/mon_projet_api/update_member.php on line 45
+[09-Aug-2024 18:22:25 UTC] PHP Parse error:  Unmatched '}' in /home/spcom1/public_html/komi/mon_projet_api/update_member.php on line 45
+[09-Aug-2024 18:22:26 UTC] PHP Parse error:  Unmatched '}' in /home/spcom1/public_html/komi/mon_projet_api/update_member.php on line 45
+[09-Aug-2024 18:24:19 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home/spcom1/public_html/komi/mon_projet_api/update_member.php on line 6
+[09-Aug-2024 19:46:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.membres' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/delete_member.php:20
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/delete_member.php(20): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/delete_member.php on line 20
+[09-Aug-2024 19:47:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.membres' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/delete_member.php:19
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/delete_member.php(19): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/delete_member.php on line 19
+[09-Aug-2024 19:48:08 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.membres' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/delete_member.php:19
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/delete_member.php(19): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/delete_member.php on line 19
+[09-Aug-2024 19:48:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.membres' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/delete_member.php:19
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/delete_member.php(19): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/delete_member.php on line 19
+[09-Aug-2024 19:48:35 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.membres' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/delete_member.php:19
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/delete_member.php(19): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/delete_member.php on line 19
+[09-Aug-2024 19:48:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.membres' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/delete_member.php:19
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/delete_member.php(19): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/delete_member.php on line 19
+[09-Aug-2024 19:49:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.membres' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/delete_member.php:19
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/delete_member.php(19): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/delete_member.php on line 19
+[09-Aug-2024 19:51:11 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.membres' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/delete_member.php:14
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/delete_member.php(14): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/delete_member.php on line 14
+[09-Aug-2024 19:51:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'spcom1_komibd.membres' doesn't exist in /home/spcom1/public_html/komi/mon_projet_api/delete_member.php:14
+Stack trace:
+#0 /home/spcom1/public_html/komi/mon_projet_api/delete_member.php(14): mysqli->prepare()
+#1 {main}
+  thrown in /home/spcom1/public_html/komi/mon_projet_api/delete_member.php on line 14
+[10-Aug-2024 00:32:54 UTC] Données reçues: ID=4, Nom=dos, Prénom=doveney, Date=24/08/2024, Sexe=M
+[10-Aug-2024 00:32:54 UTC] Date convertie: 2024-08-24
+[10-Aug-2024 00:38:29 UTC] Données reçues: ID=3, Nom=monPC, Prénom=Mac, Date=16/08/2024, Sexe=M
+[10-Aug-2024 00:38:29 UTC] Date convertie: 2024-08-16
+[10-Aug-2024 00:38:42 UTC] Données reçues: ID=3, Nom=monPC, Prénom=Mac, Date=31/08/2024, Sexe=M
+[10-Aug-2024 00:38:42 UTC] Date convertie: 2024-08-31
+[10-Aug-2024 00:40:46 UTC] Données reçues: ID=3, Nom=monPC, Prénom=Mac, Date=09/11/2023, Sexe=M
+[10-Aug-2024 00:40:46 UTC] Date convertie: 2023-11-09
+[10-Aug-2024 00:43:23 UTC] Données reçues: ID=3, Nom=monPC, Prénom=Mac, Date=14/12/2024, Sexe=M
+[10-Aug-2024 00:43:23 UTC] Date convertie: 2024-12-14
+[10-Aug-2024 00:44:58 UTC] Données reçues: ID=3, Nom=monPC, Prénom=Mac, Date=2023-04-05, Sexe=F
+[10-Aug-2024 00:44:58 UTC] Erreur de format de date: 2023-04-05
+[10-Aug-2024 00:47:29 UTC] Date reçue: 2018-08-10
+[10-Aug-2024 00:48:20 UTC] Date reçue: 2024-08-23
+[10-Aug-2024 00:57:10 UTC] Date reçue: 2024-08-08
+[10-Aug-2024 01:04:49 UTC] Date reçue: 1955-08-10
